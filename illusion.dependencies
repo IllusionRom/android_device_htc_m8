@@ -1,9 +1,9 @@
 [
   {
     "remote":      "gh",
-    "repository":  "CyanogenMod/android_kernel_htc_msm8974",
+    "repository":  "xboxfanj/android_kernel_htc_msm8974",
     "target_path": "kernel/htc/msm8974",
-    "revision":    "cm-11.0"
+    "revision":    "kk44"
   },
   {
     "remote":      "gh",
